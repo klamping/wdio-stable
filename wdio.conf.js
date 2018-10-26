@@ -1,5 +1,3 @@
-console.log('wdio.conf.js :1', process.env.DEBUG);
-
 exports.config = {
 
     //
